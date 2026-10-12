@@ -1,7 +1,6 @@
 ![Maven Build](https://github.com/DDdayHUN/se-lab/actions/workflows/maven.yml/badge.svg)
 
-[![License: MIT]
-(https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![License: MIT](https://opensource.org/licenses/MIT)
 
 # SE Spaceship
 
